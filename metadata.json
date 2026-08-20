@@ -1,0 +1,7 @@
+{
+  "name": "Nova Voice Assistant",
+  "description": "Bengali and English voice assistant for Tapas Sir with offline & AI brain capabilities, wake-word standby, phone controls, and owner security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
